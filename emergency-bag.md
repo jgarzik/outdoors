@@ -44,6 +44,7 @@ Standard advice is that you should be able to survive 72 hours without any outsi
 
 ## Multi-use
 - [ ] Cash, small denominations
+- [ ] Multi-tool (knife etc.)
 - [ ] Zip loc bags
 - [ ] Trash bags
 - [ ] Duct tape
