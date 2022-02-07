@@ -19,6 +19,7 @@ Standard advice is that you should be able to survive 72 hours without any outsi
 - [ ] 1-litre waterskin
 
 ## Shelter
+- [ ] Tarp
 - [ ] Rain poncho
 - [ ] Space blanket
 
