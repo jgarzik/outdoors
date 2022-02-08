@@ -25,6 +25,10 @@ Standard advice is that you should be able to survive 72 hours without any outsi
 
 ## Health
 - [ ] Camp soap
+- [ ] Toothbrush
+- [ ] Toilet paper
+- [ ] Feminine hygiene
+- [ ] N95/dust masks
 - [ ] First aid kit
 - [ ] Critical medications
 
